@@ -1,0 +1,23 @@
+.transactionHistory{
+    display:flex;
+    padding-top:50px;
+    flex-direction: column;
+    margin-left: 20px;
+    border-collapse: collapse;
+    max-width:300px;
+}
+
+.header{
+    display:flex;
+    justify-content: space-between;
+
+}
+
+.columns{
+    flex-direction: column;
+}
+
+.amount{
+    padding-left:30px;
+    padding-right: 85px;
+}
